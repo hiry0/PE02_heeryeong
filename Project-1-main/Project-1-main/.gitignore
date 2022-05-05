@@ -1,0 +1,13 @@
+data/*
+
+result/*
+
+.idea/*
+
+__pycache__/*
+
+test.py
+
+test2.py
+
+src/__pycache__

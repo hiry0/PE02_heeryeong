@@ -1,0 +1,11 @@
+# pip list
+lmfit==1.0.2
+matplotlib==3.4.1
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy==1.20.2
+pandas==1.2.4
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+tqdm==4.60.0
